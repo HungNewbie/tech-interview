@@ -1,0 +1,48 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Dog treat",
+          "price": 5.99,
+          "image": { "fields": { "file": { "url": "./images/product1.jpeg" } } }
+      
+        }  
+    },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Cat treat",
+          "price": 5.99,
+          "image": { "fields": { "file": { "url": "./images/product2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Dog Collar",
+          "price": 20.99,
+          "image": { "fields": { "file": { "url": "./images/product3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Dog Bed",
+          "price":69.99,
+          "image": { "fields": { "file": { "url": "./images/product4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Cat Scratcher",
+          "price": 9.99,
+          "image": { "fields": { "file": { "url": "./images/product5.jpeg" } } }
+        }
+      }
+    ]
+  }
+  
+
+  
