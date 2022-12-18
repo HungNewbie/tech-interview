@@ -3,20 +3,20 @@
       {
         "sys": { "id": "1" },
         "fields": {
-          "title": "Dog treat",
+          "title": "Dog treat bone shape",
+          "stock": "available",
           "price": 5.99,
-          "image": { "fields": { "file": { "url": "./images/product1.jpeg" } } }
-      
+          "image": { "fields": { "file": { "url": "./images/product1.jpeg" } } }  
         }  
     },
-      {
-        "sys": { "id": "2" },
-        "fields": {
-          "title": "Cat treat",
-          "price": 5.99,
-          "image": { "fields": { "file": { "url": "./images/product2.jpeg" } } }
-        }
-      },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Dog Bed L size",
+        "price":69.99,
+        "image": { "fields": { "file": { "url": "./images/product4.jpeg" } } }
+      }
+    },
       {
         "sys": { "id": "3" },
         "fields": {
@@ -28,21 +28,67 @@
       {
         "sys": { "id": "4" },
         "fields": {
-          "title": "Dog Bed",
-          "price":69.99,
-          "image": { "fields": { "file": { "url": "./images/product4.jpeg" } } }
+          "title": "Ultra Ball 6cm for Dog 2 Pack",
+          "price": 15.99,
+          "image": { "fields": { "file": { "url": "./images/product10.jpeg" } } }
         }
       },
       {
         "sys": { "id": "5" },
         "fields": {
+          "title": "Dog House Grey size Large",
+          "price": 315.99,
+          "image": { "fields": { "file": { "url": "./images/product11.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Cat treat 180g Beef Flavour",
+          "price": 5.99,
+          "image": { "fields": { "file": { "url": "./images/product2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
           "title": "Cat Scratcher",
           "price": 9.99,
           "image": { "fields": { "file": { "url": "./images/product5.jpeg" } } }
         }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Fish Tank 21L",
+          "price": 59.99,
+          "image": { "fields": { "file": { "url": "./images/product6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "Blood Worm 300g Pack",
+          "price": 17.99,
+          "image": { "fields": { "file": { "url": "./images/product7.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "10" },
+        "fields": {
+          "title": "Meal Worms 100g",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/product8.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "11" },
+        "fields": {
+          "title": "Bird Cage Cream",
+          "price": 58.99,
+          "image": { "fields": { "file": { "url": "./images/product9.jpeg" } } }
+        }
       }
     ]
   }
-  
 
-  
